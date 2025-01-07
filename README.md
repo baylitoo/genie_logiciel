@@ -2,4 +2,4 @@
 
 
 Diagramme de classes: 
-![alt text](genie_logiciel\data\diag.JPG)
+![alt text](data\diag.JPG)
