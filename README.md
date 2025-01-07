@@ -1,2 +1,5 @@
-# genie_logiciel
-Projet de génie logiciel
+# Projet en génie logiciel
+
+
+Diagramme de classes: 
+![alt text](genie_logiciel\data\diag.JPG)
